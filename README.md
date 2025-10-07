@@ -16,6 +16,7 @@
 - **USB Traseiro**: 1x USB 3.2 Gen 2x2 Type-C + 2x USB 3.2 Gen 2 Type-A + 3x USB 3.2 Gen 1
 - **Áudio**: Capacitores de alta qualidade + WIMA audiófilo
 - **Recursos**: M.2 EZ-Latch Plus, Multi-Key, Smart Fan 6, RGB FUSION 2.0
+- **BIOS**: F13 (9.57MB) - 2025/06/19 (Última versão)
 
 ### 🔧 **Processador**
 - **Modelo**: Intel Core i9-13900K (Raptor Lake)
@@ -110,13 +111,17 @@
 - SSD NVMe para melhor performance
 - Fonte de alimentação adequada (750W+ recomendado)
 
-### 🔧 **Configurações BIOS**
+### 🔧 **Configurações BIOS (F13)**
 - **Secure Boot**: Desabilitado
 - **Fast Boot**: Desabilitado
 - **CSM**: Desabilitado
 - **VT-d**: Desabilitado (se causar problemas)
 - **Above 4G Decoding**: Habilitado
 - **Resizable BAR**: Habilitado
+- **XMP/DOCP**: Habilitado (para DDR5)
+- **Intel SpeedStep**: Habilitado
+- **Intel Turbo Boost**: Habilitado
+- **Hyper-Threading**: Habilitado
 
 ## 🚨 **Avisos Importantes**
 
