@@ -3,9 +3,19 @@
 ## 📋 Especificações do Hardware
 
 ### 🖥️ **Placa Mãe**
-- **Modelo**: Gigabyte Aorus Z790 Elite AX
+- **Modelo**: Gigabyte Aorus Z790 Elite AX (rev. 1.0)
 - **Chipset**: Intel Z790
 - **Socket**: LGA 1700
+- **Suporte CPU**: Intel Core 13ª e 12ª geração
+- **Memória**: DDR5 Dual Channel (4 slots DIMM)
+- **WiFi**: Wi-Fi 6E 802.11ax 2T2R
+- **Bluetooth**: 5.0
+- **LAN**: 2.5GbE Ethernet
+- **Slots PCIe**: 1x PCIe 5.0 x16 + 2x PCIe adicionais
+- **Armazenamento**: 4x M.2 PCIe 4.0 + 6x SATA 6Gb/s
+- **USB Traseiro**: 1x USB 3.2 Gen 2x2 Type-C + 2x USB 3.2 Gen 2 Type-A + 3x USB 3.2 Gen 1
+- **Áudio**: Capacitores de alta qualidade + WIMA audiófilo
+- **Recursos**: M.2 EZ-Latch Plus, Multi-Key, Smart Fan 6, RGB FUSION 2.0
 
 ### 🔧 **Processador**
 - **Modelo**: Intel Core i9-13900K (Raptor Lake)
