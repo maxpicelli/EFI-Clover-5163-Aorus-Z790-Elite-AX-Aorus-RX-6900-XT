@@ -59,6 +59,6 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 
 **⚠️ Disclaimer**: Este projeto é apenas para fins educacionais. O uso de macOS em hardware não-Apple pode violar os termos de serviço da Apple. Use por sua própria conta e risco.
 
-**📅 Última Atualização**: Dezembro 2025
+**📅 Última Atualização**: Julho 2026
 **🔧 Versão Clover**: 5173
 **💻 Hardware**: Aorus Z790 Elite AX + RX 6900 XT + i9-13900K
