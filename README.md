@@ -1,4 +1,4 @@
-🍀 # EFI Clover 5165 - Aorus Z790 Elite AX + RX 6900 XT
+🍀 # EFI Clover 5173 - Aorus Z790 Elite AX + RX 6900 XT
 
 ## 📋 Especificações do Hardware
 
@@ -6,7 +6,6 @@
 - **Modelo**: Gigabyte Aorus Z790 Elite AX (rev. 1.0)
 - **Chipset**: Intel Z790
 - **Socket**: LGA 1700
-- **BIOS**: F12 (9.57MB) - 2025/06/19
 
 ### 🔧 **Processador**
 - **Modelo**: Intel Core i9-13900K (Raptor Lake)
@@ -53,7 +52,6 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 - Secure Boot: Desabilitado
 - Fast Boot: Desabilitado
 - CSM: Desabilitado
-- Above 4G Decoding: Habilitado
 - Resizable BAR: desativado
 - XMP/DOCP: Habilitado (DDR5)
 
@@ -62,5 +60,5 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 **⚠️ Disclaimer**: Este projeto é apenas para fins educacionais. O uso de macOS em hardware não-Apple pode violar os termos de serviço da Apple. Use por sua própria conta e risco.
 
 **📅 Última Atualização**: Dezembro 2025
-**🔧 Versão Clover**: 5165
+**🔧 Versão Clover**: 5173
 **💻 Hardware**: Aorus Z790 Elite AX + RX 6900 XT + i9-13900K
